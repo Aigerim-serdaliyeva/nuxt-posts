@@ -1,9 +1,8 @@
 <template>
   <div>
-    Create
+    Post {{$route.params.id}}
   </div>
 </template>
-
 
 <script>
 export default {
