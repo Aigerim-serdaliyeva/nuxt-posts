@@ -12,7 +12,7 @@
       <i class="el-icon-edit-outline"></i>
       <span>Создать</span>
     </el-menu-item>
-    <el-menu-item index="/admin/posts">
+    <el-menu-item index="/admin/list">
       <i class="el-icon-tickets"></i>
       <span>Посты</span>
     </el-menu-item>
