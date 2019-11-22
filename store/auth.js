@@ -1,6 +1,6 @@
 
 export const state = () => ({
-  token: true
+  token: false
 })
 
 export const getters = {
